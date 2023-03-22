@@ -1,3 +1,0 @@
-add_lunch_combo lineage_find5-user
-add_lunch_combo lineage_find5-userdebug
-add_lunch_combo lineage_find5-eng
